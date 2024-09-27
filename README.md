@@ -4,7 +4,7 @@ FarmNode an e-micro farm platform solution built on Client-Server architecture t
 
 ## Tech Stack
 
-* Angular
+* Angular 13
 * HTML / CSS / TypeScript
 * Leaflet.js
 * SpringBoot / Java / Hibernate
